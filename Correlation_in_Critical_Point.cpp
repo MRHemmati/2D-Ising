@@ -1,8 +1,8 @@
 
 /******************************************************************************/
 /*** Computational Physics Course                                           ***/
-/*** Name :   Mohammad Hemati & Nikta JabbarZade                            ***/
-/*** Stu Num:        951133          & 951124                               ***/
+/*** Name :   Mohammad Hemati                                               ***/
+/*** Stu Num:        951133                                                 ***/
 /*** Ver 1.9.8                                                              ***/
 /*** Date: 13960423                                                         ***/
 /*** OS: Linux 16.10 (x86_64)                                               ***/
